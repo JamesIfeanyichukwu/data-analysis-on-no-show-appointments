@@ -1,0 +1,7 @@
+Websites and Resources used for the project
+https://geeksforgeeks.org/
+https://stackoverflow.com/
+https://python.tutorialink.com/
+https://kaggle.com/
+
+pandas documentation
